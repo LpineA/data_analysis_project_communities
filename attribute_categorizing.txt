@@ -1,0 +1,161 @@
+GENERAL INFORMATION
+
+	COMMUNITY DESCRIPTION
+		state
+		communityname
+		fold
+		population
+		LandArea
+		PopDens
+		PctUsePubTrans
+
+	URBAN AREAS
+		numbUrban
+		pctUrban
+
+	PURCENTAGE OF AGE
+		agePct12t21
+		agePct12t29
+		agePct16t24
+		agePct65up
+		PLACE OF BIRTH
+		PctForeignBorn
+		PctBornSameState
+
+	PEOPLE LIVING HABITS
+		PctSameHouse85
+		PctSameCity85
+		PctSameState85
+
+IMMIGRATION
+
+	AVERAGE INCOME
+		perCapInc
+		whitePerCap
+		blackPerCap
+		indianPerCap
+		AsianPerCap
+		HispPerCap
+
+	IMMIGRATION BY YEARS
+		PctImmigRecent
+		PctImmigRec5
+		PctImmigRec8
+		PctImmigRec10
+		PctRecentImmig
+		PctRecImmig5
+		PctRecImmig8
+		PctRecImmig10
+
+	PURCENTAGE OF POPULATION
+		racepctblack
+		racePctWhite
+		racePctAsian
+		racePctHisp
+
+
+ 
+EDUCATION
+
+	EDUCATIONNAL AND SITUATION INFORMATIONS
+		PctLess9thGrade
+		PctNotHSGrad
+		PctBSorMore
+		PctEmploy
+		PctEmplManu
+		PctEmplProfServ
+		PctOccupManu
+		PctOccupMgmtProf
+
+	LANGUAGE
+		PctSpeakEnglOnly
+		PctNotSpeakEnglWell	
+
+	PEOPLE IN DIFFICULTY
+		NumInShelters
+		NumStreet
+		PctUnemployed
+		NumUnderPov
+		PctPopUnderPov
+
+
+
+FAMILY
+
+	FAMILY INFORMATIONS
+		PersPerFam
+		PctFam2Par
+		PctKids2Par
+		PctYoungKids2Par
+		PctTeen2Par
+		PctWorkMomYoungKids
+		PctWorkMom
+
+	CHILDREN BIRTH
+		NumIlleg
+		PctIlleg
+		NumImmig
+
+	DIVORCES
+		MalePctDivorce
+		MalePctNevMarr
+		FemalePctDiv
+		TotalPctDiv
+
+
+ 
+HOUSEHOLD
+
+	HOUSEHOLDS INFORMATIONS
+		medIncome
+		pctWWage
+		pctWFarmSelf
+		pctWInvInc
+		pctWSocSec
+		pctWPubAsst
+		pctWRetire
+		medFamInc
+
+	INFORMATION ABOUT PERSON IN HOUSEHOLD
+		householdsize
+		PctLargHouseFam
+		PctLargHouseOccup
+		PersPerOccupHous
+		PersPerOwnOccHous
+		PersPerRentOccHous
+		PctPersOwnOccup
+		PctPersDenseHous
+		PctHousLess3BR
+		MedNumBR
+		HousVacant
+
+	VACANT/OCCUPIED HOUSEHOLD
+		PctHousOccup
+		PctHousOwnOcc
+		PctVacantBoarded
+		PctVacMore6Mos
+		PctHousNoPhone
+			PctWOFullPlumb
+
+	CONSTRUCTION HOUSEHOLD
+		MedYrHousBuilt
+
+	OWNER OCCUPIED HOUSING
+		OwnOccLowQuart
+		OwnOccMedVal
+		OwnOccHiQuart
+
+	RENT
+		RentLowQ
+		RentMedian
+		RentHighQ
+		MedRent
+		MedRentPctHousInc
+		MedOwnCostPctInc
+		MedOwnCostPctIncNoMtg
+
+NOT RESPECTING LAW
+	DRUGS AND VIOLENCE
+		LemasPctOfficDrugUn
+		ViolentCrimesPerPop
+
