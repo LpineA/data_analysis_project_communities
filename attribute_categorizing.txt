@@ -18,8 +18,8 @@ GENERAL INFORMATION
 		agePct12t29
 		agePct16t24
 		agePct65up
-		PLACE OF BIRTH
-		PctForeignBorn
+        
+	PLACE OF BIRTH
 		PctBornSameState
 
 	PEOPLE LIVING HABITS
@@ -52,7 +52,9 @@ IMMIGRATION
 		racePctWhite
 		racePctAsian
 		racePctHisp
-
+        
+    FOREING BORN
+        PctForeignBorn
 
  
 EDUCATION
@@ -154,7 +156,7 @@ HOUSEHOLD
 		MedOwnCostPctInc
 		MedOwnCostPctIncNoMtg
 
-NOT RESPECTING LAW
+OUTLAWS
 	DRUGS AND VIOLENCE
 		LemasPctOfficDrugUn
 		ViolentCrimesPerPop
